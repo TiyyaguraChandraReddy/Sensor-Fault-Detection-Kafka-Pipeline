@@ -46,7 +46,7 @@ ENDPOINT_SCHEMA_URL=""
 MONGO_DB_URL=""
 ```
 
-## STEP 06: Follow below screenshots to get kafka keys and secrets
+## STEP 06: Follow below screenshots to get kafka keys and secrets and MongoDB URL
 
 - ## Screenshots
 
@@ -69,5 +69,8 @@ MONGO_DB_URL=""
   - STEP 17 ![Image](https://github.com/TiyyaguraChandraReddy/Sensor-Fault-Detection-Kafka-Pipeline/blob/dev/docs/images/STEP%2017.png)
   - STEP 18 ![Image](https://github.com/TiyyaguraChandraReddy/Sensor-Fault-Detection-Kafka-Pipeline/blob/dev/docs/images/STEP%2018.png)
   - STEP 19 ![Image](https://github.com/TiyyaguraChandraReddy/Sensor-Fault-Detection-Kafka-Pipeline/blob/dev/docs/images/STEP%2019.png)
+  STEP 20 ![Image](https://github.com/TiyyaguraChandraReddy/Sensor-Fault-Detection-Kafka-Pipeline/blob/dev/docs/images/STEP%2020.png)
+  STEP 21 ![Image](https://github.com/TiyyaguraChandraReddy/Sensor-Fault-Detection-Kafka-Pipeline/blob/dev/docs/images/STEP%2021.png)
+  STEP 22 ![Image](https://github.com/TiyyaguraChandraReddy/Sensor-Fault-Detection-Kafka-Pipeline/blob/dev/docs/images/STEP%2022.png)
 
 ## STEP 07: Now update the .env file with the secrets you have downloaded
